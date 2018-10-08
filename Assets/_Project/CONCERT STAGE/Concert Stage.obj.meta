@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 1113c29bcc6332d4586028abe7c71eb9
-timeCreated: 1528230968
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: BASS_Group011_objg_stand
     100002: BASS_objNS_TB
@@ -1962,26 +1960,1989 @@ ModelImporter:
     4300776: PIANO_Rectangle2
     4300778: STAGE
     4300780: Stand
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BASS_Group011_objg_standMat
+    second: {fileID: 2100000, guid: 1d70be826ffc1a64a8a2ca89981917a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BASS_objNS_TBMat
+    second: {fileID: 2100000, guid: ca41cd04882a5bf409bdcfde25b83e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_Box04Mat
+    second: {fileID: 2100000, guid: d760992d25b286847893d941044202e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_Box05Mat
+    second: {fileID: 2100000, guid: b0694c287e1653b4ab784fc923a494b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_Box06Mat
+    second: {fileID: 2100000, guid: 3caaee4220c70c44d8713cbb7a9d7be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_Group131_Cone01Mat
+    second: {fileID: 2100000, guid: b51e3acaa0b9bb2468831edb4ede72cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_Group131_Cylinder131Mat
+    second: {fileID: 2100000, guid: 122bd0e97c9431f4c854f7776b9e9478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_pata01_Cone02Mat
+    second: {fileID: 2100000, guid: c4f4b2f4d958a7047ac0d1c3980d4caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_pata01_Cylinder103Mat
+    second: {fileID: 2100000, guid: 428607753575c714d8df4eb09ba16bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_pata02_Cone03Mat
+    second: {fileID: 2100000, guid: a3fd29c00100ea943bf387b181f89377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_pata02_Cylinder111Mat
+    second: {fileID: 2100000, guid: d5514330903bc414c8877c33ec1bc6f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Cylinder07Mat
+    second: {fileID: 2100000, guid: 4230b37f680e5cb4cad379cae9a4861e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Cylinder08Mat
+    second: {fileID: 2100000, guid: 3da32b869a1276d49b14e34b41076120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group21_ChamferBox1Mat
+    second: {fileID: 2100000, guid: da48ce43d53b4104e8360a38c8301231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group21_Cylinder331Mat
+    second: {fileID: 2100000, guid: 2fa827f0ff679444ab49a735eaa2dbab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group22_ChamferBo04Mat
+    second: {fileID: 2100000, guid: 15c39cb43da290547ac54b966c393d01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group22_Cylinder34Mat
+    second: {fileID: 2100000, guid: 731df33b17f6826448c4b3ec2077bf55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group23_ChamferBo11Mat
+    second: {fileID: 2100000, guid: 279c08a069c39954592617eab44fa429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group23_Cylinder35Mat
+    second: {fileID: 2100000, guid: 9d4e7d06f86c7f848b365ff04ae0cb54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group24_ChamferBo2Mat
+    second: {fileID: 2100000, guid: 937ba102aa113c1469404bdfd50b0a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group24_Cylinder361Mat
+    second: {fileID: 2100000, guid: d8188a31a9288384298ff0c777601e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group25_ChamferBo32Mat
+    second: {fileID: 2100000, guid: b7b8b58e91824674e8c19ee07a50e409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group25_Cylinder37Mat
+    second: {fileID: 2100000, guid: 231710e4966d00c46864577bd2f1f873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group26_ChamferBo42Mat
+    second: {fileID: 2100000, guid: fc066cf216556674fb36e11aba59baf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group26_Cylinder38Mat
+    second: {fileID: 2100000, guid: bc6792329e97c1c43a10a4cc63a56561, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group27_ChamferBo5Mat
+    second: {fileID: 2100000, guid: d2728eef5f44c194cb317382d7ff1c0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group27_Cylinder391Mat
+    second: {fileID: 2100000, guid: 8c4d133ae7dae904da13fbf759871035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group28_ChamferBo6Mat
+    second: {fileID: 2100000, guid: 69fbaaf7e11bd4d41bc8a5cfc8e7da12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group28_Cylinder40Mat
+    second: {fileID: 2100000, guid: 5894cf48410a8d6489e3c44cdeddaacb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group29_ChamferBo7Mat
+    second: {fileID: 2100000, guid: a34cb488214933848a68cf4123f8bc23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group29_Cylinder41Mat
+    second: {fileID: 2100000, guid: 0c31c4b52c8f1864892591e43470e1f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group30_ChamferBo81Mat
+    second: {fileID: 2100000, guid: 458676cf799e0ff46906ca3bbfa6a319, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group31_Group30_Cylinder421Mat
+    second: {fileID: 2100000, guid: 1460cebc75713694c9e94c47bcc3e64f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group43_ChamferBo9Mat
+    second: {fileID: 2100000, guid: 0321417827c5d53448cac33a690a2e16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group43_Cylinder53Mat
+    second: {fileID: 2100000, guid: f1f6d408b9d26b846aee375da653ccac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group45_ChamferB102Mat
+    second: {fileID: 2100000, guid: 151eb11344e6adf42a704ffe46415b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group45_Cylinder54Mat
+    second: {fileID: 2100000, guid: 9985751dccdb98141a34642a9c012fe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group46_ChamferB112Mat
+    second: {fileID: 2100000, guid: 0c6f437fcead9bf40baac28a411a6814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group46_Cylinder55Mat
+    second: {fileID: 2100000, guid: b5c12ed0db2fc434db8dec2ca947940e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group47_ChamferB121Mat
+    second: {fileID: 2100000, guid: e4b44c8dda77510429ff3233279457de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group47_Cylinder56Mat
+    second: {fileID: 2100000, guid: 047ed1bb9c8888d45a682217fa892a5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group48_ChamferB132Mat
+    second: {fileID: 2100000, guid: 19b39477105ea40438cbd44dbab87716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group48_Cylinder57Mat
+    second: {fileID: 2100000, guid: a58a1a91c74cece468534384c089e4b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group49_ChamferB141Mat
+    second: {fileID: 2100000, guid: 2ab4fe8864d36b346bfb075abe0aa524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group49_Cylinder58Mat
+    second: {fileID: 2100000, guid: 3d790bd73ad4699498722f40364e2dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group50_ChamferB151Mat
+    second: {fileID: 2100000, guid: 0a627b5373553214e8549cf56d941576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group50_Cylinder59Mat
+    second: {fileID: 2100000, guid: 14384abc9d20fa54b8cbbf1dc38ec20b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group51_ChamferB162Mat
+    second: {fileID: 2100000, guid: 71d524a13dd37d143a23ec2dcfe6f5ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group51_Cylinder60Mat
+    second: {fileID: 2100000, guid: b0807e63083942f4f976abfa439914b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group52_ChamferB171Mat
+    second: {fileID: 2100000, guid: d4c0c76e8c2896e42b60a293633bd402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group52_Cylinder61Mat
+    second: {fileID: 2100000, guid: f1e97a880a1d5ef4db159ef413d545a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group53_ChamferB181Mat
+    second: {fileID: 2100000, guid: 1ec3d01f18648cf4f8f8545ce2c31144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Group44_Group53_Cylinder62Mat
+    second: {fileID: 2100000, guid: e1b716dd20fd0e64a8ef25da70b8d8f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Tube031Mat
+    second: {fileID: 2100000, guid: 7ec3b9f0e3c377e43999b9abde353d5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Tube041Mat
+    second: {fileID: 2100000, guid: b330a5deab030484dbbf5420794b312a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_2_tom3_Tube13Mat
+    second: {fileID: 2100000, guid: eb8d71d8d957d8f479cfda6c1e32ddc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Cylinder15Mat
+    second: {fileID: 2100000, guid: ddc9941480757fe4cb4c50103e1b6522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group162_Box27Mat
+    second: {fileID: 2100000, guid: af95d5a2a6ef3e448a422ad0e53e8928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group162_Group163_Box31Mat
+    second: {fileID: 2100000, guid: fd861f6315c5337479622fcc72fd187c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group162_Group163_ChamferBo05Mat
+    second: {fileID: 2100000, guid: 72083b630ad451e45aba90d9b8ced304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group165_Box29Mat
+    second: {fileID: 2100000, guid: dca5488438205934b9fd36aa7b8b1084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group165_Group164_Box30Mat
+    second: {fileID: 2100000, guid: cbfbc078ddfc2bb4a9c422ef2fd04ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group165_Group164_ChamferBo12Mat
+    second: {fileID: 2100000, guid: 1572d22f8d918dc4fb778c0340e007c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group166_Box28Mat
+    second: {fileID: 2100000, guid: ee56940fad38ab249b8c1baed016d58c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group166_Group167_Box32Mat
+    second: {fileID: 2100000, guid: d1b783badbf077641a7f4217a308de3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group166_Group167_ChamferB241Mat
+    second: {fileID: 2100000, guid: e863cf3a4056a4041922442738dcc7ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group171_Box37Mat
+    second: {fileID: 2100000, guid: 8e98cec5e18b82e408428ee63db94dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group171_ChamferBo21Mat
+    second: {fileID: 2100000, guid: a87be733f4b268542b2c1801fb44e795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group172_Box38Mat
+    second: {fileID: 2100000, guid: 9b119eb22b10d914490f0cba05e98976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group172_ChamferBo3Mat
+    second: {fileID: 2100000, guid: 5410c0393fb9d7f4c94755fba7c1bc02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group173_Box39Mat
+    second: {fileID: 2100000, guid: f12c0f564eee4044599d5c9d61ee7b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_Group173_ChamferBox5Mat
+    second: {fileID: 2100000, guid: 0e35e68ddd90de84eb24f64496720cd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Cylinder112Mat
+    second: {fileID: 2100000, guid: 2d6630cd7d1bfc143bad5dfdfb6576fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Cylinder121Mat
+    second: {fileID: 2100000, guid: 6e3c383de6b9aa4449424645d440ad3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group109_ChamferBo4Mat
+    second: {fileID: 2100000, guid: 36e19742e86cdda4a9e39240b03c27f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group109_Cylinder10Mat
+    second: {fileID: 2100000, guid: 30f5a3b5873163d44bd7629dc2877c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group111_ChamferBo52Mat
+    second: {fileID: 2100000, guid: b616544cb4922304a9e6219e353c0b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group111_Cylinder13Mat
+    second: {fileID: 2100000, guid: 908dc716ef6e5be4999021215910bd7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group112_ChamferBo61Mat
+    second: {fileID: 2100000, guid: e65d8e0018abbc345a229814c549d191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group112_Cylinder142Mat
+    second: {fileID: 2100000, guid: 604a1d8e15fc08b418aec19bb1ffcde2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group113_ChamferBo72Mat
+    second: {fileID: 2100000, guid: 43abe163342eeed47a740c568db71636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group113_Cylinder16Mat
+    second: {fileID: 2100000, guid: 7ab0eca5cfe6f4541b74162e2f8283df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group114_ChamferBo8Mat
+    second: {fileID: 2100000, guid: 9fd2f6e468c6e5a4ab57e62e76b53ef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group114_Cylinder171Mat
+    second: {fileID: 2100000, guid: 87f797b33bbb6df4c956fe6a1c02747c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group115_ChamferBo91Mat
+    second: {fileID: 2100000, guid: f23c0d835fea60e4c9eaa0661dbbbb37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group115_Cylinder181Mat
+    second: {fileID: 2100000, guid: 2d9c428bbaa7ad849862e804c3d6a6ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group116_ChamferB10Mat
+    second: {fileID: 2100000, guid: 9aef2516cedc6984bb2e8052335f1902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group116_Cylinder191Mat
+    second: {fileID: 2100000, guid: 82f5340dba8b38c4ba4b999fe977175c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group117_ChamferB111Mat
+    second: {fileID: 2100000, guid: bc27031b5d2f9ca4e9ebe4b85e77d350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group117_Cylinder201Mat
+    second: {fileID: 2100000, guid: c076a72ecca1f3a4093d901cae6574c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group118_ChamferB12Mat
+    second: {fileID: 2100000, guid: 76493eb74e2f5fe4f87d6b89a58cd45f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group118_Cylinder211Mat
+    second: {fileID: 2100000, guid: c9fe475f136b2f14fbe17d2a92513902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group119_ChamferB131Mat
+    second: {fileID: 2100000, guid: 73cd2f76156d75f47a600c41de26eff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group110_Group119_Cylinder221Mat
+    second: {fileID: 2100000, guid: a6d43c9652a16d143819ac4d0e25e433, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group120_ChamferB14Mat
+    second: {fileID: 2100000, guid: dc8d963780bdc1246bc2f375d8ca32fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group120_Cylinder231Mat
+    second: {fileID: 2100000, guid: 0b57b7e1181ab3443bb245073f76d3d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group122_ChamferB152Mat
+    second: {fileID: 2100000, guid: a77cec6e34ae96849831b43b99bf6d74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group122_Cylinder241Mat
+    second: {fileID: 2100000, guid: 203fe745a6f21884bbb01e13250559d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group123_ChamferB161Mat
+    second: {fileID: 2100000, guid: 35f85e19c52888f458f13692352f27b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group123_Cylinder25Mat
+    second: {fileID: 2100000, guid: dc9eccc6223e95646b270776b03d6e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group124_ChamferB17Mat
+    second: {fileID: 2100000, guid: 68128c14a956ff646baf066de584401b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group124_Cylinder261Mat
+    second: {fileID: 2100000, guid: 35d5d0d21f6621840a66147c926ef9cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group125_ChamferB182Mat
+    second: {fileID: 2100000, guid: 28cd46699f2209944ae681086b3d14d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group125_Cylinder271Mat
+    second: {fileID: 2100000, guid: b9094d9437d09384cb0509d012533c84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group126_ChamferB191Mat
+    second: {fileID: 2100000, guid: e9129d364477e164896c5b5c80fe7091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group126_Cylinder281Mat
+    second: {fileID: 2100000, guid: 85da17883aca9444fa2659a4fe586c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group127_ChamferB201Mat
+    second: {fileID: 2100000, guid: 095db223bc751e44f8c027fd0149547c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group127_Cylinder291Mat
+    second: {fileID: 2100000, guid: bd85d2c59e45cec44bb2b31253436e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group128_ChamferB211Mat
+    second: {fileID: 2100000, guid: e6d33f5b7e4f1204ba5e5fb2e058fba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group128_Cylinder301Mat
+    second: {fileID: 2100000, guid: 18b367c4c8429c24690018f727bafb65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group129_ChamferB221Mat
+    second: {fileID: 2100000, guid: c4e7a18e1805e254484ffae6ffef922e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group129_Cylinder311Mat
+    second: {fileID: 2100000, guid: 30466a08e2b39014f95e00cfa9365033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group130_ChamferB231Mat
+    second: {fileID: 2100000, guid: db5fccab8c5e57e46bfed1477a27e739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Group121_Group130_Cylinder321Mat
+    second: {fileID: 2100000, guid: 2b0c59e58a0e0c74e9a952fccacc50e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Tube16Mat
+    second: {fileID: 2100000, guid: 88361e26a773f1f4580c39dc89f2ab0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Tube17Mat
+    second: {fileID: 2100000, guid: 400b9c829a26d7e4497819e2515e8560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_3_snare_Tube18Mat
+    second: {fileID: 2100000, guid: 2cfd41228aa299e4ba06db747796ab6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_ChamferCy02Mat
+    second: {fileID: 2100000, guid: db099332ffa3b004fa8733aa6980f26b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_ChamferCyl2Mat
+    second: {fileID: 2100000, guid: 925e9753ef0c7644db0db18a13ac1bc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Cone09Mat
+    second: {fileID: 2100000, guid: d177baa9ce32dce42b2ff28dff995cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Cylinder143Mat
+    second: {fileID: 2100000, guid: 23c979ada923bea499da1e6e494a1a39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Cylinder104Mat
+    second: {fileID: 2100000, guid: a528bb737b801be48a5a3c0ffa9a2fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Cylinder11Mat
+    second: {fileID: 2100000, guid: 1db772e04065a3648a1a8ffbe03d80d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group136_Box08Mat
+    second: {fileID: 2100000, guid: a0a6052dfd41a1241954e3c9597a6125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group136_Group135_Box07Mat
+    second: {fileID: 2100000, guid: 27574567be013c7459f16c9c70772a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group136_Group135_ChamferBo03Mat
+    second: {fileID: 2100000, guid: 53d2934c1f424cb4e8a1443eea5fb500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group138_Box10Mat
+    second: {fileID: 2100000, guid: 853a159bb018f3846b2751e5555e1cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group138_Group137_Box09Mat
+    second: {fileID: 2100000, guid: 731149805283312428295e03d569b1d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group138_Group137_ChamferBox3Mat
+    second: {fileID: 2100000, guid: 95eface7480d08f478826c8929ad631b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group140_Box12Mat
+    second: {fileID: 2100000, guid: 435799d4cfb98da4880c3971ce6d2493, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group140_Group139_Box11Mat
+    second: {fileID: 2100000, guid: 8787c4ee4409c974686a3d2e81696d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group141_Group140_Group139_ChamferBo13Mat
+    second: {fileID: 2100000, guid: 1945b9e9753a1024db6ad9536151a1c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group142_Capsule01Mat
+    second: {fileID: 2100000, guid: 227408a82b10b1c45b5ea8800ef974e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_4_Group142_Capsule02Mat
+    second: {fileID: 2100000, guid: 527df43bb9b82c74d9e378be69462847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Box25Mat
+    second: {fileID: 2100000, guid: f28b59c75c8a50f46943541e8df15d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Capsule05Mat
+    second: {fileID: 2100000, guid: 0ffba0d47487cd04ea268395162ac97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_ChamferBo23Mat
+    second: {fileID: 2100000, guid: f1501c11c6f66964d9e780d1651ce552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Cylinder101Mat
+    second: {fileID: 2100000, guid: 285047d4aa573da4ea8f123800b59bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Cylinder14Mat
+    second: {fileID: 2100000, guid: 7d5d393ea01d3394d880ac3715ec47d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Cylinder151Mat
+    second: {fileID: 2100000, guid: f419ec282394a0c409f62f17b2eff36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group155_Box19Mat
+    second: {fileID: 2100000, guid: 545024fc702de10479ddda353a911ebf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group155_Group156_Box20Mat
+    second: {fileID: 2100000, guid: 5ea3b94fc554ab54c8140e1e8dfc56e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group155_Group156_ChamferBo01Mat
+    second: {fileID: 2100000, guid: 4e1fc269b9646f748b92b148c1abfeba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group157_Box21Mat
+    second: {fileID: 2100000, guid: 1b9150435f3c3084d9d1ec5b79c0bc3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group157_Group158_Box22Mat
+    second: {fileID: 2100000, guid: 1888532ad9c892e47bbf4651f08423aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group157_Group158_ChamferBo14Mat
+    second: {fileID: 2100000, guid: 1f89d8600964d3941b351f6150feeaac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group159_Box23Mat
+    second: {fileID: 2100000, guid: 5475ee2460b6c714e88b667b658fc591, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group159_Group160_Box24Mat
+    second: {fileID: 2100000, guid: c744c6a8e9735ef40bbea2d73e672cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group159_Group160_ChamferBox2Mat
+    second: {fileID: 2100000, guid: defba83b68f245448afba3046aacd8ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group161_Cone11Mat
+    second: {fileID: 2100000, guid: 4f9b1cfe5f5cf8f48bf0a13918870530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_5_Group161_Cone12Mat
+    second: {fileID: 2100000, guid: ed3f6a66e85fc194c9168931da0d39c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group132_ChamferCylMat
+    second: {fileID: 2100000, guid: bb86536fc2db68641b5b84a53f16ed5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group132_Cone08Mat
+    second: {fileID: 2100000, guid: eb20b159af69e8e4f988caee453e2baf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group132_Cylinder43Mat
+    second: {fileID: 2100000, guid: ae239509187062141ac710ea3cf8cda5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group133_ChamferCy01Mat
+    second: {fileID: 2100000, guid: d6f5f42bf0d6cf54db76ffd5de6fa640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group133_Cone07Mat
+    second: {fileID: 2100000, guid: 7d1844384adfbbd4d8cac7f2976b4410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group133_Cylinder44Mat
+    second: {fileID: 2100000, guid: a7d0a319a0a54de4abe7fe52e1a8ab11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group134_ChamferB59Mat
+    second: {fileID: 2100000, guid: 639c065ca6711b14993befef6517e201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group134_Cylinder45Mat
+    second: {fileID: 2100000, guid: 7db057b3abfdff944b9e8c4934428780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group134_Sphere01Mat
+    second: {fileID: 2100000, guid: 299cfe177de72be45b9a8d42a8f9c79c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_Group134_Sphere02Mat
+    second: {fileID: 2100000, guid: d5f6f8b3b6b5a1444a6c152614fe3caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Cylinder01Mat
+    second: {fileID: 2100000, guid: e8208e377d31f364f8f17aed26afab7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Cylinder021Mat
+    second: {fileID: 2100000, guid: 89405ab40d1722945adb34524a2df30b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group012_ChamferB39Mat
+    second: {fileID: 2100000, guid: 298c13067764ca149a5df6eb93c9cb77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group012_Cylinder23Mat
+    second: {fileID: 2100000, guid: 7eeab047ce2144849968a0c5bdf7b7ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group02_ChamferB40Mat
+    second: {fileID: 2100000, guid: 3875ef144d8d8e042952bc2c8c3e414e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group02_Cylinder24Mat
+    second: {fileID: 2100000, guid: 1b477151ef5a04446a722fa461719f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group03_ChamferB41Mat
+    second: {fileID: 2100000, guid: e8355880d3c80974ebe26629761e7564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group03_Cylinder251Mat
+    second: {fileID: 2100000, guid: 0e8806279979af64cace9d1c975025d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group04_ChamferB42Mat
+    second: {fileID: 2100000, guid: ab38f84768e733444b00edbc3ca5ad2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group04_Cylinder26Mat
+    second: {fileID: 2100000, guid: 1e77c4d51e8831c4694d78c81db5b3fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group05_ChamferB56Mat
+    second: {fileID: 2100000, guid: fb6a3fb404f4a31449f243feaae9b942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group05_Cylinder401Mat
+    second: {fileID: 2100000, guid: 7070f576bad83234dbd9a866ed160c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group06_ChamferB43Mat
+    second: {fileID: 2100000, guid: e70c05ff5b7e9cf4ca4fc87ec0ce806a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group06_Cylinder27Mat
+    second: {fileID: 2100000, guid: d967fb413ba3d0a4ba05a1c0394a00ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group07_ChamferB55Mat
+    second: {fileID: 2100000, guid: d8bd64fec13f9784b93b317084861aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group07_Cylinder39Mat
+    second: {fileID: 2100000, guid: 9e3f05d801e2ef244adf34f5503ba2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group08_ChamferB44Mat
+    second: {fileID: 2100000, guid: 4a9100e665eaac94abc607fd70fa4a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group08_Cylinder28Mat
+    second: {fileID: 2100000, guid: 8e25a014f67e6664e9ae1f0c721fb679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group09_ChamferB45Mat
+    second: {fileID: 2100000, guid: 981e820455e8a61438ec74348060d4ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group09_Cylinder29Mat
+    second: {fileID: 2100000, guid: 10e1dc2f326cb1b45acb42d4f593c83d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group10_ChamferB46Mat
+    second: {fileID: 2100000, guid: a13e6fc8be310b4418c7098c88320954, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group10_Cylinder30Mat
+    second: {fileID: 2100000, guid: 326675e027427334cb184aab42e3696f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group11_ChamferB53Mat
+    second: {fileID: 2100000, guid: aea8e5d081de5e84dbfbeaf317e06188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group11_Cylinder371Mat
+    second: {fileID: 2100000, guid: 9fe1def35f7f72a47aaf8d3199f52a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group12_ChamferB52Mat
+    second: {fileID: 2100000, guid: e94cef40567360b458f1d5bb3b9c8833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group12_Cylinder36Mat
+    second: {fileID: 2100000, guid: 5565c697374494c4d86632551232edf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group13_ChamferB51Mat
+    second: {fileID: 2100000, guid: 649051839f2fcdb4bae0fd97ea770e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group13_Cylinder351Mat
+    second: {fileID: 2100000, guid: 1ba74ebd8eac3754f9a913560f107a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group14_ChamferB50Mat
+    second: {fileID: 2100000, guid: 54c0789f9d2e7114fa94c1d85c7ab385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group14_Cylinder341Mat
+    second: {fileID: 2100000, guid: c47544532bcb9e54bab83e0d0825ae01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group15_ChamferB49Mat
+    second: {fileID: 2100000, guid: 81dc8c08905fc5647b1ab53bf9a9d614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group15_Cylinder33Mat
+    second: {fileID: 2100000, guid: 5ba6dc7f6ed573e4bb04589f32f6cbcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group16_ChamferB57Mat
+    second: {fileID: 2100000, guid: e019ea6126c80c2408a6ec7a3eaae6c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group16_Cylinder411Mat
+    second: {fileID: 2100000, guid: 11d3dd1cf0be72243b122d2b39895c8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group17_ChamferB48Mat
+    second: {fileID: 2100000, guid: 15999cee2c9af474e8bfd75ab23c3d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group17_Cylinder32Mat
+    second: {fileID: 2100000, guid: aa18490008f5cfd47a8925976bfe0f92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group18_ChamferB58Mat
+    second: {fileID: 2100000, guid: a15c1d18ba136ee4e92baf043c02b007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group18_Cylinder42Mat
+    second: {fileID: 2100000, guid: 457f736ecc93c5b42b1552dbd2ffe2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group19_ChamferB47Mat
+    second: {fileID: 2100000, guid: d2c4ce0a1d6e12e4f8ff5612ec392527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group19_Cylinder31Mat
+    second: {fileID: 2100000, guid: 41afdeab051d0844d858a5284fa35419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group20_ChamferB54Mat
+    second: {fileID: 2100000, guid: bbd778539fbe60a4f9c00a0c89d053f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Group20_Cylinder381Mat
+    second: {fileID: 2100000, guid: 62c11db14e5c96f4083bbcac30684786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Tube011Mat
+    second: {fileID: 2100000, guid: be333eac3103da94eac1088c830ca4e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Tube06Mat
+    second: {fileID: 2100000, guid: 4684f3d2afe12cb4f850ef1ba1595633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_bassdrum_Tube07Mat
+    second: {fileID: 2100000, guid: ea18f5b4bf8a56e4baa9ed41e1ea9e27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Cylinder031Mat
+    second: {fileID: 2100000, guid: 0d4399d2961fd4c449da65751a61e0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Cylinder041Mat
+    second: {fileID: 2100000, guid: 83f70b7d39383f24e89d2bbbd12e352f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group76_ChamferBox4Mat
+    second: {fileID: 2100000, guid: 605d00f52e7e0d74d93f1cfcd7c5807c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group76_Cylinder83Mat
+    second: {fileID: 2100000, guid: 59c13c20c18f78f4e8791a23871f48ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group78_ChamferBo02Mat
+    second: {fileID: 2100000, guid: c5e2399a43e651c43ac9926e1928677a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group78_Cylinder84Mat
+    second: {fileID: 2100000, guid: fe17e3669a406024c945be046238d79a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group79_ChamferBo1Mat
+    second: {fileID: 2100000, guid: 59e2d0274e155d1458a6884df5af44a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group79_Cylinder85Mat
+    second: {fileID: 2100000, guid: c7cf3c628aca53245baac79ca3695b9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group80_ChamferBo22Mat
+    second: {fileID: 2100000, guid: 17eefc4a268d26c459f854fe25ada958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group80_Cylinder86Mat
+    second: {fileID: 2100000, guid: 4f86bdc0123f69e4b8fa80e9d465b258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group81_ChamferBo31Mat
+    second: {fileID: 2100000, guid: acced80af64cc4c46b96bff02df6c049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group81_Cylinder87Mat
+    second: {fileID: 2100000, guid: 099933e6fa7d40a4b9be67589030d2e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group82_ChamferBo41Mat
+    second: {fileID: 2100000, guid: eb383717551dad941892f6f54dd06834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group82_Cylinder88Mat
+    second: {fileID: 2100000, guid: a691dbf37621d7347b7ce6d66bdb50db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group83_ChamferBo51Mat
+    second: {fileID: 2100000, guid: e06ce82d4fc55fb43b00ade98754910f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group83_Cylinder89Mat
+    second: {fileID: 2100000, guid: f0a28501e4a53ce4088dd9d188857eb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group84_ChamferBo62Mat
+    second: {fileID: 2100000, guid: b9e496c9d60705647ad3d56c5183d44d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group84_Cylinder90Mat
+    second: {fileID: 2100000, guid: 110f9109bc9b0574aaa7621f32b9a2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group85_ChamferBo71Mat
+    second: {fileID: 2100000, guid: 7460c6d9572f5cf4a8bf207c033926b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group85_Cylinder91Mat
+    second: {fileID: 2100000, guid: dda9c66b4377f094da2245ba62adc480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group86_ChamferBo82Mat
+    second: {fileID: 2100000, guid: d4aca9f72c68fe6439f72e4f19442499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group77_Group86_Cylinder92Mat
+    second: {fileID: 2100000, guid: 62a798db2e4df2646926816667af3218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group100_ChamferB101Mat
+    second: {fileID: 2100000, guid: 6854633bfc3a1eb499d7ac14583cb549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group100_Cylinder113Mat
+    second: {fileID: 2100000, guid: 3a4320d3f61891b4fb2c78a1b4cd0e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group101_ChamferB11Mat
+    second: {fileID: 2100000, guid: 95dd6e712d32b9c46908efb0458138aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group101_Cylinder12Mat
+    second: {fileID: 2100000, guid: 95413468af36309418bb43e727ddefc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group102_ChamferB122Mat
+    second: {fileID: 2100000, guid: eccbbb3e26a26e44fae58d2f02e52dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group102_Cylinder132Mat
+    second: {fileID: 2100000, guid: 305661190b50ae5408c2d43320298420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group103_ChamferB13Mat
+    second: {fileID: 2100000, guid: b6ae80a3fd33bbe42a5a698cf6a1ca7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group103_Cylinder141Mat
+    second: {fileID: 2100000, guid: 4529628fe0dcf94498b9b4639f89bb29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group104_ChamferB142Mat
+    second: {fileID: 2100000, guid: 669bb3d663136f045b53b68d0c313565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group104_Cylinder152Mat
+    second: {fileID: 2100000, guid: 9e7492090755417488f95aced56f60c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group105_ChamferB15Mat
+    second: {fileID: 2100000, guid: dfe956dee699bd744a087d3c76b507a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group105_Cylinder161Mat
+    second: {fileID: 2100000, guid: f241d733623a6fc4cb235c11277aaff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group106_ChamferB16Mat
+    second: {fileID: 2100000, guid: f2ca3bbe972380749bfb4563710862c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group106_Cylinder17Mat
+    second: {fileID: 2100000, guid: c1b11198b4074a24b84fa6c8b7b2f48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group107_ChamferB172Mat
+    second: {fileID: 2100000, guid: 1445d3502092b1a498e44122ff6576eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group107_Cylinder18Mat
+    second: {fileID: 2100000, guid: 1f993f81ff054844391a81d61f59e08f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group108_ChamferB18Mat
+    second: {fileID: 2100000, guid: 54363ae3638f1bf48bd08d81693ed207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group108_Cylinder19Mat
+    second: {fileID: 2100000, guid: bdc6b914648f1a5469316e2a77960736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group98_ChamferBo92Mat
+    second: {fileID: 2100000, guid: 83154d5f40729c94291035624c656618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Group99_Group98_Cylinder102Mat
+    second: {fileID: 2100000, guid: 1fe7bd36c61488a40a59ed6792400d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Tube021Mat
+    second: {fileID: 2100000, guid: c2e05c7f72133d542a637a2b4ce30f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Tube08Mat
+    second: {fileID: 2100000, guid: a988f653e2ef98444a03a7aeb1b50ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom1_Tube09Mat
+    second: {fileID: 2100000, guid: 630130e0ae3aa384eac13aef7dbf32fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Cylinder051Mat
+    second: {fileID: 2100000, guid: 96725efec8910424c8edff9b322aa1f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Cylinder06Mat
+    second: {fileID: 2100000, guid: 1090c5321be1f0949ac982fce31d1cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group65_ChamferB19Mat
+    second: {fileID: 2100000, guid: 0e57d42bae7bf7545bc085f3ab8e858c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group65_Cylinder73Mat
+    second: {fileID: 2100000, guid: 0d956b64f6560fb43901eb4172a4ed31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group67_ChamferB20Mat
+    second: {fileID: 2100000, guid: 5b4806c87e257d8419f82096bb771f92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group67_Cylinder74Mat
+    second: {fileID: 2100000, guid: 020c132c49b7a844b9f6a6ed214c31c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group68_ChamferB21Mat
+    second: {fileID: 2100000, guid: 681890aac6dc8de4f8e03a1789e47dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group68_Cylinder75Mat
+    second: {fileID: 2100000, guid: c876977039f2b90419caff00f9954aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group69_ChamferB22Mat
+    second: {fileID: 2100000, guid: e592392fd2aa23548b4fcb8c24580f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group69_Cylinder76Mat
+    second: {fileID: 2100000, guid: 5ce3778f28cab494da20863c33e2e851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group70_ChamferB23Mat
+    second: {fileID: 2100000, guid: 09135f8138023e3458d8f921ee455b11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group70_Cylinder77Mat
+    second: {fileID: 2100000, guid: 618d406f685baac4aae33fa581901449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group71_ChamferB24Mat
+    second: {fileID: 2100000, guid: 2d36d8eb891caac4892854de96e0d3b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group71_Cylinder78Mat
+    second: {fileID: 2100000, guid: 2d84a896689a55644bd973b40f48097e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group72_ChamferB25Mat
+    second: {fileID: 2100000, guid: 4e9d4cc0ee2a5624eb0cefeb00bd34b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group72_Cylinder79Mat
+    second: {fileID: 2100000, guid: 3df53307ea9e7ee4082c6467d5fa17e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group73_ChamferB26Mat
+    second: {fileID: 2100000, guid: d6a38897c9af94342b2e461c62a12841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group73_Cylinder80Mat
+    second: {fileID: 2100000, guid: 1a2040735880f2b40ac8431837e6993d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group74_ChamferB27Mat
+    second: {fileID: 2100000, guid: 898cc6fc77dadf4489764b75bf6d999b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group74_Cylinder81Mat
+    second: {fileID: 2100000, guid: 731328c1f120ed740a716fe3140f5657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group75_ChamferB28Mat
+    second: {fileID: 2100000, guid: 92f666fa3f6d82945acbf6f29bf27212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group66_Group75_Cylinder82Mat
+    second: {fileID: 2100000, guid: d90e7fbf5f519b247be20c4eaa478abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group87_ChamferB29Mat
+    second: {fileID: 2100000, guid: 2fed1ceb34e4b2644833f5c13f02f385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group87_Cylinder93Mat
+    second: {fileID: 2100000, guid: 799aa1dd902fb874396f6f591f7ea3f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group89_ChamferB30Mat
+    second: {fileID: 2100000, guid: a26c95307664c3041a21bf3a51f46d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group89_Cylinder94Mat
+    second: {fileID: 2100000, guid: f2fd750c0ecdedf4cbb6fe00dec5d8ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group90_ChamferB31Mat
+    second: {fileID: 2100000, guid: 5f02a3685e4619f4eb98751a387bcd6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group90_Cylinder95Mat
+    second: {fileID: 2100000, guid: 1bba5f80469b467468e8cab5c6bc5278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group91_ChamferB32Mat
+    second: {fileID: 2100000, guid: 4fd0aa819fe136a468cb2a4b0ebad626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group91_Cylinder96Mat
+    second: {fileID: 2100000, guid: f10bf8162492c8f4980ce8c3449ed8bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group92_ChamferB33Mat
+    second: {fileID: 2100000, guid: 79f715e6c0462d34abed3759a541fc15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group92_Cylinder97Mat
+    second: {fileID: 2100000, guid: 7f35b02cf36bc3844a86929aaa46e5dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group93_ChamferB34Mat
+    second: {fileID: 2100000, guid: 495459ee0260ae64990661ec3bf2f1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group93_Cylinder98Mat
+    second: {fileID: 2100000, guid: 65e5b7b1d17c2f4498b44d5b3d38759f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group94_ChamferB35Mat
+    second: {fileID: 2100000, guid: 2f393d1ee51c97a458e0ce6b05653915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group94_Cylinder99Mat
+    second: {fileID: 2100000, guid: 1af312134f429bc479f1ba008a095e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group95_ChamferB36Mat
+    second: {fileID: 2100000, guid: 8d3fab8e474d1b94cb5114dc6ae87658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group95_Cylinder20Mat
+    second: {fileID: 2100000, guid: 23096ded028319142a5ba672fe88a274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group96_ChamferB37Mat
+    second: {fileID: 2100000, guid: 269163dd092328a468eb1709c061346e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group96_Cylinder21Mat
+    second: {fileID: 2100000, guid: 9c686136a6d4db74da507e7e2c07634a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group97_ChamferB38Mat
+    second: {fileID: 2100000, guid: 6d5e633425700a64caf2af5742e732c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Group88_Group97_Cylinder22Mat
+    second: {fileID: 2100000, guid: 3c88f7d8990c42146983f494d87b9749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Tube10Mat
+    second: {fileID: 2100000, guid: 3b390d5344a4a9e469a593558638f673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Tube11Mat
+    second: {fileID: 2100000, guid: 4c3d21e6d0c93fb47ab979c295a70484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DRUMS_DRUM_tom2_Tube12Mat
+    second: {fileID: 2100000, guid: 5a21c748963b60a42820991135c18b8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_GUITAR_sub01Mat
+    second: {fileID: 2100000, guid: b80836965e22bc4409694799472ab60b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ELECTRIC_GUITAR_sub02Mat
+    second: {fileID: 2100000, guid: feabb029e44ac2d4a9b92d133ff13f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_ChamferBoxMat
+    second: {fileID: 2100000, guid: eabd066a9abe6d44aba87e8a6a01eef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_ChamferCy0Mat
+    second: {fileID: 2100000, guid: 04df53bfaefc33043a2503932f6410b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_ChamferCyl1Mat
+    second: {fileID: 2100000, guid: 99e90f2cd6756c644bf8f893b61013ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Cylinder011Mat
+    second: {fileID: 2100000, guid: f6f6749c04db1bc4586f67ea76899b57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Cylinder02Mat
+    second: {fileID: 2100000, guid: 270d9435509a93843990d3681e5fa880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Cylinder03Mat
+    second: {fileID: 2100000, guid: 92d0cf3fc09a894459c6f89236e4f97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Cylinder04Mat
+    second: {fileID: 2100000, guid: e742835b690265645965ce9bbff8d09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Cylinder05Mat
+    second: {fileID: 2100000, guid: 49da3c1dd158bde4c8d0954b82664ef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_ChamferBo0Mat
+    second: {fileID: 2100000, guid: c28314eb8e9b07b4b80172d61b1771d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object01Mat
+    second: {fileID: 2100000, guid: 23a52650be0c9754eab74c3e3131fd68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object02Mat
+    second: {fileID: 2100000, guid: 180683f61ca207344b499e6cfd97a6fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object03Mat
+    second: {fileID: 2100000, guid: 929423368b7286b449c208f45f6b9242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object04Mat
+    second: {fileID: 2100000, guid: 43163bfba3136c24aad9cff160f78056, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object05Mat
+    second: {fileID: 2100000, guid: 8ed059801b1c7e448bf981d3ae9f0b5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object06Mat
+    second: {fileID: 2100000, guid: f2deb8aaddbbad24c995d0d52e88c7e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object07Mat
+    second: {fileID: 2100000, guid: b0ec7dd8c2789e24b9033ac509b3ca3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object08Mat
+    second: {fileID: 2100000, guid: 8b1244b7718950d468deb433f49abccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object09Mat
+    second: {fileID: 2100000, guid: b6754eaa57a96fa459acc22d20ab3be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object10Mat
+    second: {fileID: 2100000, guid: 43511c49960416845bf41f65361a9531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Group013_Object11Mat
+    second: {fileID: 2100000, guid: 480d5bae635757948835182b63806bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Tube01Mat
+    second: {fileID: 2100000, guid: c47d4f2ef74ae9b4293c6ecdd5513e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Tube02Mat
+    second: {fileID: 2100000, guid: cf8b0cd48e68d294186fedb6ff773082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Tube03Mat
+    second: {fileID: 2100000, guid: 50c92cd583644fc449f83656cf754073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIC_Tube04Mat
+    second: {fileID: 2100000, guid: dc3637cb22a83d6479d4568b6c88e0d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Group01_Star01Mat
+    second: {fileID: 2100000, guid: 956e9abf2cb15ca4880a517c8f366674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Group01_Star02Mat
+    second: {fileID: 2100000, guid: 1c1ce474d32ccaf4fb9416ad1abf47f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line07Mat
+    second: {fileID: 2100000, guid: e5eb5031fa7bc4245bdde4e44d131b1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line08Mat
+    second: {fileID: 2100000, guid: 4f61a087ef45c344995efc5cb82921da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line09Mat
+    second: {fileID: 2100000, guid: 118b57636ca0a0e48b8c2c4e45da6dc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line10Mat
+    second: {fileID: 2100000, guid: c19de3637d49d594f8503c07eb6ac229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line11Mat
+    second: {fileID: 2100000, guid: bc3a29e67d2d7304b8998386a287498a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line12Mat
+    second: {fileID: 2100000, guid: c98d074bbaf86114b8364d22b9350e1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line13Mat
+    second: {fileID: 2100000, guid: eace3a5cf2e16b64ca1a4f84bf3d9a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line14Mat
+    second: {fileID: 2100000, guid: 1936215c484f3a349984819c12a59a8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line15Mat
+    second: {fileID: 2100000, guid: f89aafa286b7cb745b1913a95d2d5f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line16Mat
+    second: {fileID: 2100000, guid: 3656e67ce4213fb4b9e5a0d44b9e9d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line17Mat
+    second: {fileID: 2100000, guid: 16028e1050c5fb145aee36f41e2b8fbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line18Mat
+    second: {fileID: 2100000, guid: 2ffa99ed0d679c0449a3dca1da4fa69d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Line19Mat
+    second: {fileID: 2100000, guid: 5999572a268b92c44996bd8862331bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Rectangle1Mat
+    second: {fileID: 2100000, guid: f98dbadea6fd7f647abcbb8debbf11ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO_Rectangle2Mat
+    second: {fileID: 2100000, guid: d6effaa0b2dc8114781ff961d9acc915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_Line01Mat
+    second: {fileID: 2100000, guid: a356634f5c1848245a69e4983f914d5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_Line02Mat
+    second: {fileID: 2100000, guid: 567c2c2055dd28142bb876be0441e88d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_Line03Mat
+    second: {fileID: 2100000, guid: 050904c5356aa394693dfaba5be00b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_Rectangle0Mat
+    second: {fileID: 2100000, guid: 3454c120b65d5df43ad29a916103264f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____12Mat
+    second: {fileID: 2100000, guid: ab6c29331707f654698df98ee8592e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____13Mat
+    second: {fileID: 2100000, guid: 9bdee64196aca6a4eb4ef4eb901b7ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____14Mat
+    second: {fileID: 2100000, guid: 114f756b7dc9b314986e4584f8207c8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____15Mat
+    second: {fileID: 2100000, guid: 8c7f0d6da52b0134b814f4362d927c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____16Mat
+    second: {fileID: 2100000, guid: e7a1418a241afac4fa9acba5dccebee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____17Mat
+    second: {fileID: 2100000, guid: abf2161cdbf1e5d4086fcddbb076b263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____18Mat
+    second: {fileID: 2100000, guid: dea5b75c17287f445bebc9667b99c551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____19Mat
+    second: {fileID: 2100000, guid: 2d238ee7103f7044192f2b15aaebbd76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____20Mat
+    second: {fileID: 2100000, guid: d21d84b41445e1f4483fdc53b629f978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____21Mat
+    second: {fileID: 2100000, guid: 96a1bc20f6b90df4a8ba772129cbd583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____22Mat
+    second: {fileID: 2100000, guid: af78d9395139aa24aab3004a5602e59f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____23Mat
+    second: {fileID: 2100000, guid: f9cecdf51f754de4b82f53a605b7bb53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____24Mat
+    second: {fileID: 2100000, guid: de16964ea6632ae4ba5644a2da88fcf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____25Mat
+    second: {fileID: 2100000, guid: 45b4538e6a4241149b061e7e67f49b6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____26Mat
+    second: {fileID: 2100000, guid: 609f1a9730cefc34785e921dfffec977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____27Mat
+    second: {fileID: 2100000, guid: 4d83a55c70d9ae54cbc3dc1571d3e885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____28Mat
+    second: {fileID: 2100000, guid: ac48ed66d7ce9c444a277f1e4c7ffb9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____29Mat
+    second: {fileID: 2100000, guid: 6759a4cd4f666f04da038f0e82d8bde9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____30Mat
+    second: {fileID: 2100000, guid: b5af1f900720b984fbe3b2b25f2ae990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____31Mat
+    second: {fileID: 2100000, guid: 13ebaa6cb7731fc4d9c39d2025186cb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____32Mat
+    second: {fileID: 2100000, guid: fd52609c5659cfc48ab4bbc7d6d5d5ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____33Mat
+    second: {fileID: 2100000, guid: 379a4e7f25282114583db193dc0e7dd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____34Mat
+    second: {fileID: 2100000, guid: 5c673e6b73590e048b4d2793665a563e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____35Mat
+    second: {fileID: 2100000, guid: f7e1823f60f6ddd4991af347f1d1f017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50_____36Mat
+    second: {fileID: 2100000, guid: 8c3f1795b087497458ad6b12fc773d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________10Mat
+    second: {fileID: 2100000, guid: 6a8247335e6ad074191eedd2bf65d16f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________12Mat
+    second: {fileID: 2100000, guid: 9a334203fe52ec649b636d0108904e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________13Mat
+    second: {fileID: 2100000, guid: 2f12fd125e1c65e4b8fc2cc343b04252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________14Mat
+    second: {fileID: 2100000, guid: a343e6a3969723c4688be904911eb576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________15Mat
+    second: {fileID: 2100000, guid: 034197fd1e15d4b49909b1e5dfca04a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________16Mat
+    second: {fileID: 2100000, guid: c7914a33077b85444a45b8b0ddd02207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________17Mat
+    second: {fileID: 2100000, guid: 79aa60aeabf3ec7478951147e035e8d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________18Mat
+    second: {fileID: 2100000, guid: 06764484af313e7468a0a89a19cc47a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________19Mat
+    second: {fileID: 2100000, guid: f990de6f08ff97b45816dc37c0e76ae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________20Mat
+    second: {fileID: 2100000, guid: 005a6924a3b97a643b84df53e2091f35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________21Mat
+    second: {fileID: 2100000, guid: 0253640504807b440a5d8bc7cbeaacd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________22Mat
+    second: {fileID: 2100000, guid: a629ec914fb21174fafd0c507d69c038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________23Mat
+    second: {fileID: 2100000, guid: aaf23c25e2595594592ab08db59c6793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________24Mat
+    second: {fileID: 2100000, guid: 1d22c30cde27c29478353bac77dbf082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________25Mat
+    second: {fileID: 2100000, guid: 54e0d2b81497a7341b98a7bc912fc67b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________26Mat
+    second: {fileID: 2100000, guid: 5b83cafd9dee836448ca3ce53e1ed8e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________27Mat
+    second: {fileID: 2100000, guid: 39a28693ddea460499553819f2fd6f8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________28Mat
+    second: {fileID: 2100000, guid: 3757d2b37d70e8640a988730847f7592, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________29Mat
+    second: {fileID: 2100000, guid: 90927b75c76373c4eaa6c1e77e8e4e22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________30Mat
+    second: {fileID: 2100000, guid: b06f922226088564d9e6aa15bba8647c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIANO__korg_x50________31Mat
+    second: {fileID: 2100000, guid: 391a51b10bbb1204d9bab047de6da555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STAGEMat
+    second: {fileID: 2100000, guid: 39a520d91af4f634e9aacd70895c131b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StandMat
+    second: {fileID: 2100000, guid: e7d7fe161d12c494f916b4eb2b5902c6, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -1989,25 +3950,34 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -2018,7 +3988,10 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
   humanoidOversampling: 1

@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: fbdfd06df81943446b235aedfecfc1c5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Clone_Clone_Clone_Clone_Clone_Mesh_16
+    100002: Clone_Clone_Clone_Clone_Mesh_16
+    100004: Clone_Clone_Clone_Mesh_16
+    100006: Clone_Clone_Clone_Mesh_24
+    100008: Clone_Clone_Mesh_16
+    100010: Clone_Clone_Mesh_24
+    100012: Clone_Clone_Mesh_63
+    100014: Clone_Clone_Mesh_68
+    100016: Clone_Mesh_16
+    100018: Clone_Mesh_19
+    100020: Clone_Mesh_24
+    100022: Clone_Mesh_57
+    100024: Clone_Mesh_60
+    100026: Clone_Mesh_63
+    100028: Clone_Mesh_68
+    100030: Clone_Mesh_73
+    100032: Clone_Mesh_76
+    100034: //RootNode
+    100036: Mesh_16
+    100038: Mesh_19
+    100040: Mesh_57
+    100042: Mesh_60
+    100044: Mesh_62
+    100046: Mesh_68
+    100048: Mesh_73
+    100050: Mesh_74
+    100052: Mesh_80
+    100054: Mesh_81
+    100056: Mesh_85
+    400000: Clone_Clone_Clone_Clone_Clone_Mesh_16
+    400002: Clone_Clone_Clone_Clone_Mesh_16
+    400004: Clone_Clone_Clone_Mesh_16
+    400006: Clone_Clone_Clone_Mesh_24
+    400008: Clone_Clone_Mesh_16
+    400010: Clone_Clone_Mesh_24
+    400012: Clone_Clone_Mesh_63
+    400014: Clone_Clone_Mesh_68
+    400016: Clone_Mesh_16
+    400018: Clone_Mesh_19
+    400020: Clone_Mesh_24
+    400022: Clone_Mesh_57
+    400024: Clone_Mesh_60
+    400026: Clone_Mesh_63
+    400028: Clone_Mesh_68
+    400030: Clone_Mesh_73
+    400032: Clone_Mesh_76
+    400034: //RootNode
+    400036: Mesh_16
+    400038: Mesh_19
+    400040: Mesh_57
+    400042: Mesh_60
+    400044: Mesh_62
+    400046: Mesh_68
+    400048: Mesh_73
+    400050: Mesh_74
+    400052: Mesh_80
+    400054: Mesh_81
+    400056: Mesh_85
+    2300000: Clone_Clone_Clone_Clone_Clone_Mesh_16
+    2300002: Clone_Clone_Clone_Clone_Mesh_16
+    2300004: Clone_Clone_Clone_Mesh_16
+    2300006: Clone_Clone_Clone_Mesh_24
+    2300008: Clone_Clone_Mesh_16
+    2300010: Clone_Clone_Mesh_24
+    2300012: Clone_Clone_Mesh_63
+    2300014: Clone_Clone_Mesh_68
+    2300016: Clone_Mesh_16
+    2300018: Clone_Mesh_19
+    2300020: Clone_Mesh_24
+    2300022: Clone_Mesh_57
+    2300024: Clone_Mesh_60
+    2300026: Clone_Mesh_63
+    2300028: Clone_Mesh_68
+    2300030: Clone_Mesh_73
+    2300032: Clone_Mesh_76
+    2300034: Mesh_16
+    2300036: Mesh_19
+    2300038: Mesh_57
+    2300040: Mesh_60
+    2300042: Mesh_62
+    2300044: Mesh_68
+    2300046: Mesh_73
+    2300048: Mesh_74
+    2300050: Mesh_80
+    2300052: Mesh_81
+    2300054: Mesh_85
+    3300000: Clone_Clone_Clone_Clone_Clone_Mesh_16
+    3300002: Clone_Clone_Clone_Clone_Mesh_16
+    3300004: Clone_Clone_Clone_Mesh_16
+    3300006: Clone_Clone_Clone_Mesh_24
+    3300008: Clone_Clone_Mesh_16
+    3300010: Clone_Clone_Mesh_24
+    3300012: Clone_Clone_Mesh_63
+    3300014: Clone_Clone_Mesh_68
+    3300016: Clone_Mesh_16
+    3300018: Clone_Mesh_19
+    3300020: Clone_Mesh_24
+    3300022: Clone_Mesh_57
+    3300024: Clone_Mesh_60
+    3300026: Clone_Mesh_63
+    3300028: Clone_Mesh_68
+    3300030: Clone_Mesh_73
+    3300032: Clone_Mesh_76
+    3300034: Mesh_16
+    3300036: Mesh_19
+    3300038: Mesh_57
+    3300040: Mesh_60
+    3300042: Mesh_62
+    3300044: Mesh_68
+    3300046: Mesh_73
+    3300048: Mesh_74
+    3300050: Mesh_80
+    3300052: Mesh_81
+    3300054: Mesh_85
+    4300000: Clone_Clone_Clone_Clone_Clone_Mesh_16
+    4300002: Clone_Clone_Clone_Clone_Mesh_16
+    4300004: Clone_Clone_Clone_Mesh_16
+    4300006: Clone_Clone_Clone_Mesh_24
+    4300008: Clone_Clone_Mesh_16
+    4300010: Clone_Clone_Mesh_24
+    4300012: Clone_Clone_Mesh_63
+    4300014: Clone_Clone_Mesh_68
+    4300016: Clone_Mesh_16
+    4300018: Clone_Mesh_19
+    4300020: Clone_Mesh_24
+    4300022: Clone_Mesh_57
+    4300024: Clone_Mesh_60
+    4300026: Clone_Mesh_63
+    4300028: Clone_Mesh_68
+    4300030: Clone_Mesh_73
+    4300032: Clone_Mesh_76
+    4300034: Mesh_16
+    4300036: Mesh_19
+    4300038: Mesh_57
+    4300040: Mesh_60
+    4300042: Mesh_62
+    4300044: Mesh_68
+    4300046: Mesh_73
+    4300048: Mesh_74
+    4300050: Mesh_80
+    4300052: Mesh_81
+    4300054: Mesh_85
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Clone_Clone_Clone_Clone_Mesh_16Mat
+    second: {fileID: 2100000, guid: 61d34dc7d2a161d40866290d3e4c1dd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Clone_Clone_Clone_Mesh_16Mat
+    second: {fileID: 2100000, guid: 0c42774d1bd863441b3a4caadcb9ff53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Clone_Clone_Mesh_16Mat
+    second: {fileID: 2100000, guid: 0698e7a886509204185315fde788a872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Clone_Clone_Mesh_24Mat
+    second: {fileID: 2100000, guid: 81a5e55ac50643645988bce50b2bbfec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Clone_Mesh_16Mat
+    second: {fileID: 2100000, guid: 184b5217813500446b683c2955a985ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Clone_Mesh_24Mat
+    second: {fileID: 2100000, guid: 0af5f481c2e04c64aa59ae61be19a7b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Clone_Mesh_63Mat
+    second: {fileID: 2100000, guid: 1955a144c319265439e8eef5b9118db1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Clone_Mesh_68Mat
+    second: {fileID: 2100000, guid: c7a0c03e2bfb56d4ba15ba96efba67de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_16Mat
+    second: {fileID: 2100000, guid: ae57888cf7a073143b6e5474855e82e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_19Mat
+    second: {fileID: 2100000, guid: 122c881d617540149a5a1355df24cd56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_24Mat
+    second: {fileID: 2100000, guid: 8db04e19abf76334d85573340e50271a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_57Mat
+    second: {fileID: 2100000, guid: 57c931f3fb532df41bf9e395a359651a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_60Mat
+    second: {fileID: 2100000, guid: 97978a280c76d4d4dbbb84fbbe7480f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_63Mat
+    second: {fileID: 2100000, guid: 754f3844a7819d143a8ff9bebc1b1272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_68Mat
+    second: {fileID: 2100000, guid: e76a833b005737f488bf57c36be668c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_73Mat
+    second: {fileID: 2100000, guid: b817c6526766d824bab28e1ace9ed36f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clone_Mesh_76Mat
+    second: {fileID: 2100000, guid: d476e1aa55e907741b192d5e1896440a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_16Mat
+    second: {fileID: 2100000, guid: 56e2b3bf0f3ceb24e9d219694154493e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_19Mat
+    second: {fileID: 2100000, guid: a5674453ba265df4fac4d9988cfab489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_57Mat
+    second: {fileID: 2100000, guid: 7ad6680828e1f6c41a51b1a41501718c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_60Mat
+    second: {fileID: 2100000, guid: 3cdc4e27c62fc7e4b903ab012e509dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_62Mat
+    second: {fileID: 2100000, guid: 9bd9659462ef6bd4bb1271ee9b9d013a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_68Mat
+    second: {fileID: 2100000, guid: d2d2800d454fa444e8039ff091552440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_73Mat
+    second: {fileID: 2100000, guid: c2308cf663823774391fb3190430eb1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_74Mat
+    second: {fileID: 2100000, guid: a6f3ce5d870fc564188bdffcb32f1119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_80Mat
+    second: {fileID: 2100000, guid: b60e3d4964c17c44cb77efa1b10ed2d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_81Mat
+    second: {fileID: 2100000, guid: cd34bba06c99a124bac4e8c333050057, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_85Mat
+    second: {fileID: 2100000, guid: b4c3316fa3bc1044bb55d1540c0b8423, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
