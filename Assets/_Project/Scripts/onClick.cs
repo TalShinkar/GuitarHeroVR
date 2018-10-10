@@ -11,11 +11,22 @@ public class onClick : MonoBehaviour {
 	void Start ()
     {
         particles = GetComponentsInChildren<ParticleSystem>();
+
     }
-	
-	// Update is called once per frame
-	void Update () {
-        if (Input.GetKey(this.key))
-            foreach(ParticleSystem ps in particles) ps.Play();
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.name.Contains("Note") && Input.GetKey(this.key))
+        {
+            foreach (ParticleSystem ps in particles) ps.Play();
+            Destroy(other.gameObject);
+        }
+    }
+
+    // Update is called once per frame
+    void Update () {
+        if (Input.GetKey(this.key)) {
+            foreach (ParticleSystem ps in particles) ps.Play();
+        }
     }
 }
